@@ -40,8 +40,8 @@ The LDR sensor detects the intensity of surrounding light and sends the correspo
 - Breadboard
 - Jumper Wires
 
-## Tools Used
-- Arduino IDE
+## Tools Use
+-Tinkercad
 
 ## Applications
 - Automatic street lighting
